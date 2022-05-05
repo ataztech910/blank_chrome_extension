@@ -1,4 +1,4 @@
-# Blanck Chrom Extension usint Vue 3 + TypeScript + Vite
+# Blank Chrome Extension using Vue 3 + TypeScript + Vite
 
 This is a blank project that can be used as Template to quick start with Chrome extension development
 You can use it as a template then :
